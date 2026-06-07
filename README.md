@@ -46,9 +46,8 @@ A Python-based automation tool that organizes files in a directory into categori
 ## Folder Structure
 
 First File Sorting/
-│
 ├── file_sorter.ipynb
-└── assets/
+└── images/
      File_sorter_preview.jpg
 
 ---
