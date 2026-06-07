@@ -37,7 +37,7 @@ A Python-based automation tool that organizes files in a directory into categori
 
 ## Project Preview
 
-![File Sorter Preview](assets/File_sorter_preview.jpg)
+![File Sorter Preview](images/File_sorter_preview.jpg)
 
 > Screenshot of the Jupyter Notebook showing the file sorting logic and execution output.
 
